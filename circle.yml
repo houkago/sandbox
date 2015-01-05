@@ -1,0 +1,7 @@
+machine:
+  timezone: Asia/Tokyo
+  node:
+    version: 0.10.32
+dependencies:
+  override:
+    - node -v
